@@ -11,6 +11,9 @@
   </p>
 
   <p>
+    <a href="https://annoris.github.io/solterra/">
+      <img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_DEMO-annoris.github.io%2Fsolterra-E07A5F?style=for-the-badge&labelColor=0B1310" alt="Live Demo" />
+    </a>
     <a href="https://github.com/annoris/solterra/stargazers">
       <img src="https://img.shields.io/github/stars/annoris/solterra?style=for-the-badge&color=F2CC8F&labelColor=0B1310" alt="GitHub Stars" />
     </a>
@@ -196,11 +199,11 @@ All architectural photography and bespoke SVG brand assets are **openly browsabl
 
 This public repository (**[`annoris/solterra`](https://github.com/annoris/solterra)**) shares the **architecture, live GIF preview, GSAP engine teasers, and the public [`solterra/`](./solterra/) visual vault**.
 
-The **complete, production-ready, downloadable source code** (React 19 + Vite 6 + Tailwind CSS 4 + GSAP 3.13 `ScrollSmoother` / `ScrollTrigger` / `SplitText` components and build pipeline) lives in the private repository **[`annoris/solterra-pro`](https://github.com/annoris/solterra-pro)**.
+The **complete, production-ready, downloadable source code** (React 19 + Vite 6 + Tailwind CSS 4 + GSAP 3.13 `ScrollSmoother` / `ScrollTrigger` / `SplitText` components and build pipeline) lives in the private repository **`annoris/solterra-pro`**.
 
 ### 🏆 Contribute-to-Unlock Model (*Acceso Exclusivo para Contribuidores*)
 
-We reward builders who add value to the community. **Star this repo and complete any one of these paths to receive an official GitHub collaborator invite to [`annoris/solterra-pro`](https://github.com/annoris/solterra-pro):**
+We reward builders who add value to the community. **Star this repo and complete any one of these paths to receive an official GitHub collaborator invite to `annoris/solterra-pro`:**
 
 1. **🛠️ Submit a Valuable Pull Request** to [`annoris/solterra`](https://github.com/annoris/solterra) — GSAP/ScrollSmoother guides, architecture diagrams, performance tips, or translations.
 2. **🧠 Open a High-Signal Technical Issue** in [`annoris/solterra/issues`](https://github.com/annoris/solterra/issues) — deep UX/motion audit, accessibility improvements, or creative architecture proposals.
@@ -233,3 +236,32 @@ Love GSAP 3.13, editorial architecture, and 60 FPS interactive hospitality UI? S
 <div align="center">
   <sub><strong>SOLTERRA®</strong> · Closer to Earth—Closer to Stillness · California Desert Architectural Sanctuaries</sub>
 </div>
+
+---
+
+## 🌐 Explore the JAP INTERNATIONAL & Annoris Ecosystem
+
+Built by **JAP INTERNATIONAL** — Local-First AI Automation Platforms for Small & Medium Businesses (SMBs), agencies, clinics, e-commerce, and enterprise teams, alongside 60 FPS Creative Web Engineering showcases. Every project below includes an instant **Live Demo (zero login required)**.
+
+### 🤖 AI & Local-First Business Automation
+| Project | What It Solves | Stack | Live Demo |
+| :--- | :--- | :--- | :---: |
+| [**`aetheris`**](https://github.com/annoris/aetheris) | 77 AI Agents, 328 Skills & Local-First Automation Control Plane | Bun · Node · Ollama · MCP | [Live Demo ↗](https://annoris.github.io/aetheris/) |
+| [**`aurelia`**](https://github.com/annoris/aurelia) | Self-Hosted Business AI Automation, RAG, Workflows & Local CRM | React 18 · Express · Prisma | [Live Demo ↗](https://annoris.github.io/aurelia/) |
+| [**`lumenpitch`**](https://github.com/annoris/lumenpitch) | AI Presentation Studio & Multi-LLM Slide Generation Engine | Next.js 16 · FastAPI · Electron | [Live Demo ↗](https://annoris.github.io/lumenpitch/) |
+| [**`tabvento`**](https://github.com/annoris/tabvento) | Autonomous AI Browser Automation Dashboard (Local-First BYOK) | Python · Playwright · SQLite | [Live Demo ↗](https://annoris.github.io/tabvento/) |
+| [**`trading-bauhaus-journal`**](https://github.com/annoris/trading-bauhaus-journal) | AI Trading Journal with Claude/OpenAI Analyst & OHLC Replay | Next.js 15 · TypeScript · SQLite | [Live Demo ↗](https://annoris.github.io/trading-bauhaus-journal/) |
+
+### 🎨 Creative Engineering & 60 FPS Web Showcases
+| Project | Experience & Motion Engineering | Stack | Live Demo |
+| :--- | :--- | :--- | :---: |
+| [**`kairo`**](https://github.com/annoris/kairo) | 60 FPS Spatial Web: Navier-Stokes Fluid, GLSL Shaders & Rapier 3D | Next.js 14 · Three.js · GLSL | [Live Demo ↗](https://annoris.github.io/kairo/) |
+| [**`valence`**](https://github.com/annoris/valence) | Zero-Bundler 60 FPS Awwwards Agency Template (MIT) | HTML5 · CSS3 · GSAP · Lenis | [Live Demo ↗](https://annoris.github.io/valence/) |
+| [**`luma`**](https://github.com/annoris/luma) | Zero-Dependency Botanical Brand Experience + 106 BPM Web Audio Synth | HTML5 · CSS3 · Web Audio API | [Live Demo ↗](https://annoris.github.io/luma/) |
+| [**`valtor`**](https://github.com/annoris/valtor) | Luxury Automotive Digital Flagship — 60 FPS GSAP + SplitText | Vite · ES Modules · GSAP | [Live Demo ↗](https://annoris.github.io/valtor/) |
+| **`solterra`** *(You are here)* | Luxury Desert Architecture Showcase — GSAP ScrollSmoother | React 19 · Vite 6 · Tailwind 4 | [Live Demo ↗](https://annoris.github.io/solterra/) |
+| [**`moxie`**](https://github.com/annoris/moxie) | Bold Social-First Creative Agency Experience — GSAP Inertia | Next.js 15 · React 19 · Lenis | [Live Demo ↗](https://annoris.github.io/moxie/) |
+| [**`kineta`**](https://github.com/annoris/kineta) | Locked-60fps Brutalist Editorial Showcase & Variable Font Physics | Vanilla JS · GSAP · Lenis | [Live Demo ↗](https://annoris.github.io/kineta/) |
+| [**`solmora`**](https://github.com/annoris/solmora) | Editorial Mediterranean E-Commerce Showcase (MIT, Zero-Deps) | HTML5 · CSS3 · Vanilla JS | [Live Demo ↗](https://annoris.github.io/solmora/) |
+
+> ⭐ **Enjoyed exploring this project?** Drop a **Star** on GitHub and check out the full portfolio at [**github.com/annoris**](https://github.com/annoris) — it helps other builders discover the ecosystem!
